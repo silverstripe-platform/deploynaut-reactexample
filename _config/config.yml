@@ -1,0 +1,8 @@
+---
+Name: deploynaut-stackcreator
+After:
+  - '#deploynautroutes'
+---
+Director:
+  rules:
+    'naut/react-example': 'ReactExample\Dispatcher'

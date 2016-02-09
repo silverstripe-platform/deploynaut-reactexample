@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap-sass": "^3.3.5",
+    "font-awesome": "^4.3.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "2.0.4",
+    "node-sass": "^3.3.2"
+  }
+}
