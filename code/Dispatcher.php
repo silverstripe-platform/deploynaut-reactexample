@@ -9,13 +9,6 @@ class Dispatcher extends \Dispatcher implements \PermissionProvider {
 	/**
 	 * @var array
 	 */
-	public static $allowed_actions = [
-		'doSomething'
-	];
-
-	/**
-	 * @var array
-	 */
 	private static $action_types = [
 		self::ACTION_STACKSHARECREATOR
 	];
